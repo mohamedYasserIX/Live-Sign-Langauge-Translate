@@ -1,0 +1,9 @@
+flask
+flask-socketio
+eventlet
+opencv-python-headless
+mediapipe
+tensorflow
+joblib
+Pillow
+numpy
